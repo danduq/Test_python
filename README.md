@@ -1,2 +1,2 @@
 # Test_python
-Ejemplo para clase de Python
+Ejemplo para clase: "Nociones fundamental de Python para ingenieros"
